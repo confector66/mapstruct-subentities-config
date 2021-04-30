@@ -1,0 +1,11 @@
+**/gen/
+/**/gen/
+/**/*.project
+/**/*.classpath
+
+# maven
+target/
+
+#idea
+**/*.iml
+**/.idea/
